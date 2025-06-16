@@ -1,0 +1,9 @@
+# Временные файлы
+*.bak
+*.tmp
+~$*
+*.autosave
+
+# Служебные файлы Windows
+Thumbs.db
+Desktop.ini

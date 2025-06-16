@@ -1,0 +1,6 @@
+*.a3d filter=lfs diff=lfs merge=lfs -text
+*.m3d filter=lfs diff=lfs merge=lfs -text
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.cdw filter=lfs diff=lfs merge=lfs -text
+*.spw filter=lfs diff=lfs merge=lfs -text
